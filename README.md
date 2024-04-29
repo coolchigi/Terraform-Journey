@@ -9,6 +9,7 @@
 
 ## Repo Goal
 The primary goal of this repository is to improve my documentation skills, learn Terraform best practices, and explore aspects of infrastructure as code (IaC). Through this journey, I aim to upskill in DevOps tools and enhance my understanding of Terraform.
+Another goal of this repo is to help others follow along with me on my journey to mastering Terraform.
 
 ## What is Terraform?
 Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It allows users to define and provision infrastructure using a declarative configuration language. With Terraform, you can manage and version your infrastructure efficiently, providing a reliable and scalable way to deploy and update resources across various cloud providers and on-premises environments.
